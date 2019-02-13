@@ -4,9 +4,9 @@ Since I worked in Dubai as hostel administrator I know how to communicate with d
 As my start in programming was successfully completing the course "C# Developer" in Education Center of High-Tech Park.
 
 # Interests
-_Airsoft._ This kind of activity let me get rid of negative emotions and get possitive ones and also gives me a good workout. Moreover, it is a good way to meet new people and get some interesting experience.
+**Airsoft.** This kind of activity let me get rid of negative emotions and get possitive ones and also gives me a good workout. Moreover, it is a good way to meet new people and get some interesting experience.
 
-_Board games._ Gathering with friends and playing board games in the evenings is one of my favotite amusements. It is a good way to chat with friends, it trains your logic, communicative and strategy skills in a sence and games give you a lot of different emotions, so you always have fun.
+**Board games.** Gathering with friends and playing board games in the evenings is one of my favotite amusements. It is a good way to chat with friends, it trains your logic, communicative and strategy skills in a sence and games give you a lot of different emotions, so you always have fun.
 
 
 
