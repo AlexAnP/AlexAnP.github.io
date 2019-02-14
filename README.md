@@ -10,11 +10,6 @@ As my start in programming was successfully completing the course "C# Developer"
 
 ## Practice
 <a href="https://github.com/AlexAnP/FancyCalc">FancyCalc</a>
-
-https://github.com/AlexAnP/PadawansTask1
-
-https://github.com/AlexAnP/PadawansTask2
-
-https://github.com/AlexAnP/PadawansTask3
-
-
+<a href="https://github.com/AlexAnP/PadawansTask1">Padawans Task 1</a>
+<a href="https://github.com/AlexAnP/PadawansTask2">Padawans Task 2</a>
+<a href="https://github.com/AlexAnP/PadawansTask3">Padawans Task 3</a>
