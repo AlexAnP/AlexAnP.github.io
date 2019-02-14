@@ -9,6 +9,7 @@ As my start in programming was successfully completing the course "C# Developer"
 **Board games.** Gathering with friends and playing board games in the evenings is one of my favotite amusements. It is a good way to chat with friends, it trains your logic, communicative and strategy skills in a sence and games give you a lot of different emotions, so you always have fun.
 
 ## Practice
+https://github.com/AlexAnP/FancyCalc
 https://github.com/AlexAnP/PadawansTask1
 https://github.com/AlexAnP/PadawansTask2
 
