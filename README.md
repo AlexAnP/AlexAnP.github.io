@@ -10,7 +10,11 @@ As my start in programming was successfully completing the course "C# Developer"
 
 ## Practice
 https://github.com/AlexAnP/FancyCalc
+
 https://github.com/AlexAnP/PadawansTask1
+
 https://github.com/AlexAnP/PadawansTask2
+
+https://github.com/AlexAnP/PadawansTask3
 
 
