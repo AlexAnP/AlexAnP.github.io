@@ -21,6 +21,8 @@ As my start in programming was successfully completing the course "C# Developer"
 
 <a href="https://github.com/AlexAnP/PadawansTask5">Padawans Task 5</a>
 
+<a href="https://github.com/AlexAnP/PadawansTask6">Padawans Task 6</a>
+
 <a href="https://github.com/AlexAnP/PadawansTask13">Padawans Task 13</a>
 
 <a href="https://github.com/AlexAnP/First_20_numbers">Fibonacci sequence</a>
