@@ -16,3 +16,9 @@ As my start in programming was successfully completing the course "C# Developer"
 <a href="https://github.com/AlexAnP/PadawansTask2">Padawans Task 2</a>
 
 <a href="https://github.com/AlexAnP/PadawansTask3">Padawans Task 3</a>
+
+<a href="https://github.com/AlexAnP/PadawansTask4">Padawans Task 4</a>
+
+<a href="https://github.com/AlexAnP/PadawansTask5">Padawans Task 5</a>
+
+<a href="https://github.com/AlexAnP/PadawansTask13">Padawans Task 13</a>
