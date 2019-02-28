@@ -11,6 +11,8 @@ As my start in programming was successfully completing the course "C# Developer"
 ## Practice
 <a href="https://www.codewars.com/users/Alex_AP">Codewars</a>
 
+<a href="https://github.com/AlexAnP/Tic-tac-toe">Tic-tac-toe</a>
+
 <a href="https://github.com/AlexAnP/FancyCalc">FancyCalc</a>
 
 <a href="https://github.com/AlexAnP/PadawansTask1">Padawans Task 1</a>
