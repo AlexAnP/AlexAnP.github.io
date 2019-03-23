@@ -51,4 +51,6 @@ As my start in programming was successfully completing the course "C# Developer"
 
 <a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.01">Offline Stage. Day 1</a>
 
+<a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.02">Offline Stage. Day 2</a>
+
 
