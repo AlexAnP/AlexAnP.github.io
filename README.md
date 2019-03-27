@@ -9,6 +9,13 @@ As my start in programming was successfully completing the course "C# Developer"
 **Board games.** Gathering with friends and playing board games in the evenings is one of my favotite amusements. It is a good way to chat with friends, it trains your logic, communicative and strategy skills in a sence and games give you a lot of different emotions, so you always have fun.
 
 ## Practice
+
+<a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.01">Offline Stage. Day 1</a>
+
+<a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.02">Offline Stage. Day 2</a>
+
+<a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.03">Offline Stage. Day 3</a>
+
 <a href="https://www.codewars.com/users/Alex_AP">Codewars</a>
 
 <a href="https://github.com/AlexAnP/Convert-A-Hex-String-To-RGB">Codewars/Basic coding/Kata #9</a>
@@ -48,11 +55,3 @@ As my start in programming was successfully completing the course "C# Developer"
 <a href="https://github.com/AlexAnP/PadawansTask15">Padawans Task 15</a>
 
 <a href="https://github.com/AlexAnP/First_20_numbers">Fibonacci sequence</a>
-
-<a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.01">Offline Stage. Day 1</a>
-
-<a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.02">Offline Stage. Day 2</a>
-
-<a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.03">Offline Stage. Day 3</a>
-
-
