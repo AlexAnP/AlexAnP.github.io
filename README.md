@@ -24,6 +24,8 @@ As my start in programming was successfully completing the course "C# Developer"
 
 <a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.08">Offline Stage. Day 8</a>
 
+<a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.10">Offline Stage. Day 10</a>
+
 <a href="https://www.codewars.com/users/Alex_AP">Codewars</a>
 
 <a href="https://github.com/AlexAnP/Convert-A-Hex-String-To-RGB">Codewars/Basic coding/Kata #9</a>
