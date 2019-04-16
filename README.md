@@ -28,6 +28,8 @@ As my start in programming was successfully completing the course "C# Developer"
 
 <a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.11">Offline Stage. Day 11</a>
 
+<a href="https://github.com/AlexAnP/NET1.S.2019.Piskur.12">Offline Stage. Day 12</a>
+
 <a href="https://www.codewars.com/users/Alex_AP">Codewars</a>
 
 <a href="https://github.com/AlexAnP/Convert-A-Hex-String-To-RGB">Codewars/Basic coding/Kata #9</a>
